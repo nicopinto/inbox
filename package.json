@@ -12,7 +12,7 @@
   "dependencies": {
     "mimelib": "*",
     "utf7": "~1.0.0",
-    "xoauth2": "*"
+    "xoauth2": "https://github.com/nicopinto/xoauth2/tarball/master"
   },
   "devDependencies": {
     "nodeunit": "*",
